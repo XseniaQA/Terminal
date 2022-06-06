@@ -1,9 +1,0 @@
-Name: Volkova Ksenia
-Bug ID: 547NB
-Title: The "SAVE"  buttom is smaller than the others
-Severity: trivial
-Priority: low
-Envirronment: SAMSUNG GALAXY NOTE 10 +, ANDROID 11
-Actual result: The "SAVE"  buttom is smaller than the others
-Expected Result: The application buttons have one view
-Attachments: screenshot
